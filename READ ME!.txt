@@ -1,0 +1,13 @@
+
+Instructions : 
+
+1. Run main.py,a grid window will be open 
+2. Maximise the window for better experience 
+3. Click on one of the cells of the grid to initialise start 
+4. After 3, click on another one of the cells to initialise goal 
+5. After 4, you are allowed to place obstacles 
+6. Press enter to start animation of the agent tracing a path and making its way towards goal 
+
+Note : You are allowed to place obstacles before or during the animation to observe changes in routes the agent will
+take according to hurdles placed. In case no path exists, no path will be traced. You can remove one or two obstacles, press enter 
+to start the animation again.    
